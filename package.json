@@ -1,0 +1,20 @@
+{
+  "name": "simple-read-line",
+  "version": "0.1.0",
+  "description": "simple-read-line is a library that helps you reading text files line by line through callbacks.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/caiquecp/simple-read-line"
+  },
+  "author": "Caique Pereira <toolboxdev.ccp@gmail.com>",
+  "license": "ISC",
+  "homepage": "https://github.com/caiquecp/simple-read-line",
+  "bugs": {
+    "url": "https://github.com/caiquecp/simple-read-line/issues"
+  }
+}
